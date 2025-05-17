@@ -11,7 +11,6 @@
 ### To add
 - Noita
 - VirtuaVerse
-- Portal 2
 - Hollow Knight
 - Persona 3 Portable (HD mod)
 - Cultist Simulator
@@ -21,6 +20,7 @@
 - Cult of the Lamb
 
 ### Done (initial creation)
+- Portal 2
 - Portal
 - Minecraft Dungeons (online fix)
 - Disco Elysium
