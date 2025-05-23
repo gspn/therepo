@@ -7,10 +7,10 @@
 - Slay the Princess: Pristine Cut
 - Death Must Die: Darkmoor
 - Buckshot Roulette
-
-### To add
 - Noita
 - VirtuaVerse
+
+### To add
 - Hollow Knight
 - Persona 3 Portable (HD mod)
 - Cultist Simulator
