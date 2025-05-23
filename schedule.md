@@ -11,7 +11,6 @@
 - VirtuaVerse
 
 ### To add
-- Persona 3 Portable (HD mod)
 - Cultist Simulator
 - Trigun: Stampede
 - Made in Abyss (all of it)
@@ -19,6 +18,7 @@
 - Cult of the Lamb
 
 ### Done (initial creation)
+- Persona 3 Portable (HD mod)
 - Hollow Knight
 - Portal 2
 - Portal
