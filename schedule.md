@@ -11,7 +11,6 @@
 - VirtuaVerse
 
 ### To add
-- Hollow Knight
 - Persona 3 Portable (HD mod)
 - Cultist Simulator
 - Trigun: Stampede
@@ -20,6 +19,7 @@
 - Cult of the Lamb
 
 ### Done (initial creation)
+- Hollow Knight
 - Portal 2
 - Portal
 - Minecraft Dungeons (online fix)
