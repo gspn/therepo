@@ -15,9 +15,9 @@
 - Trigun: Stampede
 - Made in Abyss (all of it)
 - YOMI Hustle
-- Cult of the Lamb
 
 ### Done (initial creation)
+- Cult of the Lamb
 - Persona 3 Portable (HD mod)
 - Hollow Knight
 - Portal 2
