@@ -11,12 +11,12 @@
 - VirtuaVerse
 
 ### To add
-- Cultist Simulator
 - Trigun: Stampede
 - Made in Abyss (all of it)
 - YOMI Hustle
 
 ### Done (initial creation)
+- Cultist Simulator
 - Cult of the Lamb
 - Persona 3 Portable (HD mod)
 - Hollow Knight
