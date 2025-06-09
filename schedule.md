@@ -9,11 +9,11 @@
 - Buckshot Roulette
 - Noita
 - VirtuaVerse
+- YOMI Hustle
 
 ### To add
 - Trigun: Stampede
 - Made in Abyss (all of it)
-- YOMI Hustle
 
 ### Done (initial creation)
 - Cultist Simulator
