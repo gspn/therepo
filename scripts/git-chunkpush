@@ -35,7 +35,7 @@ for ((i=0; i<${#files[@]}; i+=$1)); do
   git commit -m "$commit_msg"
 
   echo "Pushing commit $((i/$1+1)) to origin/$branch..."
-  git push origin "$branch"
+  git push origin "$branch" --progress
 done
 
 echo "All batches committed and pushed."
