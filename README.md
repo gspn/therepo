@@ -49,3 +49,5 @@ Add a branch to be pulled `git remote set-branches --add origin <branch name>`
 Pull a branch with `git pull origin <branch name>`
 
 `branches` files contain branch names preceded by the folder name therein.
+
+Scripts are available in the `scripts` directory on `main`
