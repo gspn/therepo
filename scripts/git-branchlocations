@@ -1,0 +1,19 @@
+#!/bin/bash
+
+local_branches=($(git for-each-ref --format="%(refname:short)" refs/heads/))
+remote_branches=($(git for-each-ref --format="%(refname:short)" refs/remotes/origin/ | sed 's@^origin/@@'))
+
+all_branches=($(printf "%s\n" "${local_branches[@]}" "${remote_branches[@]}" | sort -u))
+
+max_len=0
+for branch in "${all_branches[@]}"; do
+  [[ ${#branch} -gt $max_len ]] && max_len=${#branch}
+done
+
+printf "%-${max_len}s  %-7s  %-7s\n" "BRANCH" "LOCAL?" "REMOTE?"
+for branch in "${all_branches[@]}"; do
+  [[ " ${local_branches[*]} " =~ " $branch " ]] && local=yes || local=no
+  [[ " ${remote_branches[*]} " =~ " $branch " ]] && remote=yes || remote=no
+  printf "%-${max_len}s  %-7s  %-7s\n" "$branch" "$local" "$remote"
+done
+
