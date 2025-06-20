@@ -51,3 +51,5 @@ Pull a branch with `git pull origin <branch name>`
 `branches` files contain branch names preceded by the folder name therein.
 
 Scripts are available in the `scripts` directory on `main`
+
+[Web loader](https://gspn.github.io/pages/therepo/index.html) now available
