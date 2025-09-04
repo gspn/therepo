@@ -15,6 +15,10 @@
 - Trigun: Stampede
 - Made in Abyss (all of it)
 
+### To NFO
+- Ghost of Tsushima
+- Silksong
+
 ### Done (initial creation)
 - Cultist Simulator
 - Cult of the Lamb
